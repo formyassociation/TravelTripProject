@@ -1,0 +1,143 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.header {
+    background-color: #800080; /* Mor renk */
+}
+
+.header-bottom {
+    background-color: #800080; /* Mor renk */
+}
+
+#nav, #nav ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    border-radius: 5px 5px 5px 5px;
+    z-index: 9999;
+    display: table;
+    padding: 10px;
+    position: relative;
+    font-family: "Century Gothic", Helvetica, sans-serif;
+    background-color: #800080; /* Mor renk */
+}
+
+    #nav ul {
+        background-color: #800080; /* Mor renk */
+        border: 1px solid #291c1b;
+        border-radius: 0 5px 5px 5px;
+        border-width: 0 1px 1px;
+        box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+        left: -9999px;
+        overflow: hidden;
+        padding: 20px 0 10px;
+        position: absolute;
+        top: -9999px;
+        -moz-transform: scaleY(0);
+        -ms-transform: scaleY(0);
+        -o-transform: scaleY(0);
+        -webkit-transform: scaleY(0);
+        transform: scaleY(0);
+        -moz-transform-origin: 0 0;
+        -ms-transform-origin: 0 0;
+        -o-transform-origin: 0 0;
+        -webkit-transform-origin: 0 0;
+        transform-origin: 0 0;
+        -moz-transition: -moz-transform 0.1s linear;
+        -ms-transition: -ms-transform 0.1s linear;
+        -o-transition: -o-transform 0.1s linear;
+        -webkit-transition: -webkit-transform 0.1s linear;
+        transition: transform 0.1s linear;
+    }
+
+    #nav li {
+        float: left;
+        position: relative;
+    }
+
+        #nav li a {
+            color: #FFFFFF;
+            display: block;
+            font-size: 16px;
+            padding: 7px 54px;
+            text-decoration: none;
+        }
+
+        #nav li:hover > a {
+            background: #550055; /* Hover durumunda daha koyu mor */
+            border-radius: 5px 5px 5px 5px;
+            color: #FFFFFF;
+        }
+
+            #nav li:hover > a.hsubs {
+                border-radius: 5px 5px 0 0;
+            }
+
+        #nav li:hover ul.subs {
+            left: 0;
+            top: 36px;
+            width: 250px;
+            -moz-transform: scaleY(1);
+            -ms-transform: scaleY(1);
+            -o-transform: scaleY(1);
+            -webkit-transform: scaleY(1);
+        }
+
+    #nav ul li {
+        width: 100%;
+    }
+
+        #nav ul li:hover > a {
+            background: #550055 !important; /* Hover durumunda daha koyu mor */
+            border-radius: 5px 5px 5px 5px;
+        }
+
+.footer-bottom {
+    background-color: #800080; /* Mor renk */
+    color: #fff; /* Beyaz yazý rengi */
+    padding: 20px;
+}
+
+    .footer-bottom a {
+        color: #fff; /* Beyaz link rengi */
+    }
+
+        .footer-bottom a:hover {
+            text-decoration: underline;
+        }
+
+.copy {
+    text-align: center;
+}
+
+    .copy p {
+        font-size: 13px;
+        color: #fff;
+    }
+
+    .copy a {
+        color: #fff;
+    }

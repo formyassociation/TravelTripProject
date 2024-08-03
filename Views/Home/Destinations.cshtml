@@ -1,0 +1,52 @@
+﻿@model TravelTripProje.Models.DestinationsModel
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Destinations";
+}
+
+<div class="main-content">
+    <h1>Top Destinations</h1>
+    <p>Discover the most popular destinations based on likes and comments.</p>
+
+    @foreach (var destination in Model.PopularDestinations)
+    {
+        <section>
+            <h2>@destination.Name</h2>
+            <div class="destination">
+                <img src="~/images/@destination.Image" alt="@destination.Name">
+                <p>@destination.Description</p>
+                <p>Views: @destination.Views | Likes: @destination.Likes | Comments: @destination.Comments.Count</p>
+                <a href="@Url.Action("DestinationDetails", new { id = destination.Id })">Read More</a>
+            </div>
+        </section>
+    }
+</div>
+
+<style>
+    .main-content {
+        padding: 20px;
+    }
+
+    .destination {
+        margin-bottom: 40px;
+    }
+
+        .destination img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+    .link {
+        display: block;
+        margin-top: 10px;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .link:hover {
+            text-decoration: underline;
+        }
+</style>

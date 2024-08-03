@@ -1,0 +1,104 @@
+﻿@{
+    ViewData["Title"] = ViewData["Title"] ?? "Home";
+}
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewData["Title"] - Easy-Trip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/css/slider.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/responsiveslides.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script>
+        $(function () {
+            $("#slider1").responsiveSlides({
+                auto: true,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="header">
+        <div class="wrap">
+            <div class="logo">
+                <a href="@Url.Action("Index", "Home")">
+                    <img src="~/images/images/logo.png" alt="Easy-Trip Logo" />
+                </a>
+            </div>
+            <div class="con-right">
+                <div class="grid1-l-img">
+                    <img src="~/images/images/contact.png" alt="Contact">
+                </div>
+                <div class="grid1-l-desc">
+                    <p>Contact: +91 00000-55555</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="header-bottom">
+        <div class="wrap">
+            <ul id="nav">
+                <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                <li><a class="hsubs" href="@Url.Action("About", "Home")">About</a></li>
+                <li>
+                    <a class="hsubs" href="@Url.Action("Destinations", "Home")">Destinations</a>
+                    <ul class="subs">
+                        <li><a href="@Url.Action("Hotels", "Home")">Hotels</a></li>
+                        <li><a href="@Url.Action("Restaurants", "Home")">Restaurants</a></li>
+                        <li><a href="@Url.Action("BeachResorts", "Home")">Beach Resorts</a></li>
+                    </ul>
+                </li>
+                <li><a class="hsubs" href="@Url.Action("Guides", "Home")">Free Travel Guides</a></li>
+                <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-banner">
+        <div class="wrap">
+            <div class="banner">
+                <div class="indent">
+                    <h2 class="indent-left margin-bot">Plan the Easy Trip</h2>
+                    <div class="banner-left">
+                        <!-- Content here -->
+                    </div>
+                    <div class="header_bottom_right_images">
+                        <div class="slider">
+                            <ul class="rslides" id="slider1">
+                                <li><img src="~/images/images/img1.jpg" alt=""></li>
+                                <li><img src="~/images/images/img2.jpg" alt=""></li>
+                                <li><img src="~/images/images/img3.jpg" alt=""></li>
+                                <li><img src="~/images/images/img4.jpg" alt=""></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="wrap">
+            @RenderBody()
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="wrap">
+            <div class="copy">
+                <p>&copy; 2023 Easy-Trip. All Rights Reserved | Design by <a href="http://w3layouts.com">W3Layouts</a></p>
+            </div>
+        </div>
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

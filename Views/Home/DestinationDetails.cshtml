@@ -1,0 +1,57 @@
+﻿@model TravelTripProje.Models.Destination
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="main-content">
+    <h1>@Model.Name</h1>
+    <img src="~/images/@Model.Image" alt="@Model.Name">
+    <p>@Model.Description</p>
+    <p>Views: @Model.Views | Likes: <span id="likeCount">@Model.Likes</span></p>
+
+    <button id="likeButton">Like</button>
+
+    <h3>Comments</h3>
+    <ul id="commentList">
+        @foreach (var comment in Model.Comments)
+        {
+            <li>@comment</li>
+        }
+    </ul>
+
+    <textarea id="commentText" placeholder="Add a comment"></textarea>
+    <button id="commentButton">Add Comment</button>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('likeButton').addEventListener('click', function () {
+            fetch('/Home/LikeDestination?id=@Model.Id', {
+                method: 'POST'
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('likeCount').innerText = data.likes;
+            });
+        });
+
+        document.getElementById('commentButton').addEventListener('click', function () {
+            const commentText = document.getElementById('commentText').value;
+            fetch('/Home/CommentDestination?id=@Model.Id&comment=' + encodeURIComponent(commentText), {
+                method: 'POST'
+            })
+            .then(response => response.json())
+            .then(data => {
+                const commentList = document.getElementById('commentList');
+                commentList.innerHTML = '';
+                data.comments.forEach(comment => {
+                    const li = document.createElement('li');
+                    li.innerText = comment;
+                    commentList.appendChild(li);
+                });
+            });
+        });
+    </script>
+}

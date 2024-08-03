@@ -1,0 +1,673 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelTripProje.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelTripProje.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\7-mehmet-restaurant-antalya.jpg",
+      "PackagePath": "staticwebassets\\images\\7-mehmet-restaurant-antalya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\Celsus-kutuphanesi.jpg",
+      "PackagePath": "staticwebassets\\images\\Celsus-kutuphanesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\Cesme-Ilica-Plaji.jpeg",
+      "PackagePath": "staticwebassets\\images\\Cesme-Ilica-Plaji.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\EjderRestaurant-efes.jpg",
+      "PackagePath": "staticwebassets\\images\\EjderRestaurant-efes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\Hillside-Beach-Club-havuz.jpg",
+      "PackagePath": "staticwebassets\\images\\Hillside-Beach-Club-havuz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\Hillside-Beach-Club.jpg",
+      "PackagePath": "staticwebassets\\images\\Hillside-Beach-Club.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\Ortunc_Hotel_spa.jpg",
+      "PackagePath": "staticwebassets\\images\\Ortunc_Hotel_spa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\Peri-Bacalari.jpg",
+      "PackagePath": "staticwebassets\\images\\Peri-Bacalari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\Rixos-Premium-Belek-beach.jpg",
+      "PackagePath": "staticwebassets\\images\\Rixos-Premium-Belek-beach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\alacati-kapari-butik.jpg",
+      "PackagePath": "staticwebassets\\images\\alacati-kapari-butik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\alacati.jpg",
+      "PackagePath": "staticwebassets\\images\\alacati.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\aquafantasy-aquapark-hotel-efes.jpg",
+      "PackagePath": "staticwebassets\\images\\aquafantasy-aquapark-hotel-efes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\argos-kapadokya-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\argos-kapadokya-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\artemis-tapinagi.jpg",
+      "PackagePath": "staticwebassets\\images\\artemis-tapinagi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\asmayapragi-cesme-restoran.jfif",
+      "PackagePath": "staticwebassets\\images\\asmayapragi-cesme-restoran.jfif"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\ayasofya.jpeg",
+      "PackagePath": "staticwebassets\\images\\ayasofya.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\bodrum-antiktiyatro.jpg",
+      "PackagePath": "staticwebassets\\images\\bodrum-antiktiyatro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\bodrum-kalesi.jpg",
+      "PackagePath": "staticwebassets\\images\\bodrum-kalesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\bogaz-koprusu.jpg",
+      "PackagePath": "staticwebassets\\images\\bogaz-koprusu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\cesme-kalesi-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cesme-kalesi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\ciragan-palace-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\ciragan-palace-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\d-resort-ayvalik.jpg",
+      "PackagePath": "staticwebassets\\images\\d-resort-ayvalik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\denizrestoran-izmir.jpg",
+      "PackagePath": "staticwebassets\\images\\denizrestoran-izmir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\dmarisbay-beach.jpg",
+      "PackagePath": "staticwebassets\\images\\dmarisbay-beach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\dresort-aksam-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\dresort-aksam-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\duden-selalesi.jpg",
+      "PackagePath": "staticwebassets\\images\\duden-selalesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\el-vino-hotel-bodrum-butik.jpg",
+      "PackagePath": "staticwebassets\\images\\el-vino-hotel-bodrum-butik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\ephesus_theatre.jpg",
+      "PackagePath": "staticwebassets\\images\\ephesus_theatre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\fengo-butik-trabzon.jpg",
+      "PackagePath": "staticwebassets\\images\\fengo-butik-trabzon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\goreme-acik-hava-muzesi.jpeg",
+      "PackagePath": "staticwebassets\\images\\goreme-acik-hava-muzesi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\hierapolis-antik-kenti.jfif",
+      "PackagePath": "staticwebassets\\images\\hierapolis-antik-kenti.jfif"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\hotelbella-efes-butik.jpg",
+      "PackagePath": "staticwebassets\\images\\hotelbella-efes-butik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\about_banner.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\about_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\images\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\but.png",
+      "PackagePath": "staticwebassets\\images\\images\\but.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\contact.png",
+      "PackagePath": "staticwebassets\\images\\images\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\dest_banner.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\dest_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\flight.png",
+      "PackagePath": "staticwebassets\\images\\images\\flight.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\glass.png",
+      "PackagePath": "staticwebassets\\images\\images\\glass.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\group.png",
+      "PackagePath": "staticwebassets\\images\\images\\group.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\hakkimizda.png",
+      "PackagePath": "staticwebassets\\images\\images\\hakkimizda.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\head_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\head_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\head_bot.gif",
+      "PackagePath": "staticwebassets\\images\\images\\head_bot.gif"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\key.png",
+      "PackagePath": "staticwebassets\\images\\images\\key.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\link1-bg.gif",
+      "PackagePath": "staticwebassets\\images\\images\\link1-bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\images\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\infinity-pool-bodrum.jpg",
+      "PackagePath": "staticwebassets\\images\\infinity-pool-bodrum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\izmirin-tarihi-saat-kulesi.jpg",
+      "PackagePath": "staticwebassets\\images\\izmirin-tarihi-saat-kulesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\kaleici.jpg",
+      "PackagePath": "staticwebassets\\images\\kaleici.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\kelebekler_vadisi.JPG",
+      "PackagePath": "staticwebassets\\images\\kelebekler_vadisi.JPG"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\key-butik-izmir.jpg",
+      "PackagePath": "staticwebassets\\images\\key-butik-izmir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\konyaalti-plaji.jfif",
+      "PackagePath": "staticwebassets\\images\\konyaalti-plaji.jfif"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\kordonboyu-izmir.jpg",
+      "PackagePath": "staticwebassets\\images\\kordonboyu-izmir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\liberty-hotel-fethiye.jpg",
+      "PackagePath": "staticwebassets\\images\\liberty-hotel-fethiye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\likya-yolu-yuruyus.jpg",
+      "PackagePath": "staticwebassets\\images\\likya-yolu-yuruyus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\maxx-royal-kemer-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\maxx-royal-kemer-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\melrose-pamukkale-butik.jpg",
+      "PackagePath": "staticwebassets\\images\\melrose-pamukkale-butik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\mikla-restoran-istanbul.jpg",
+      "PackagePath": "staticwebassets\\images\\mikla-restoran-istanbul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\mozaikbahce-restoran-fethiye.jfif",
+      "PackagePath": "staticwebassets\\images\\mozaikbahce-restoran-fethiye.jfif"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\museum-hotel-kapadokya-butik.jpg",
+      "PackagePath": "staticwebassets\\images\\museum-hotel-kapadokya-butik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\nihatusta-trabzon-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\nihatusta-trabzon-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\oludeniz.jpg",
+      "PackagePath": "staticwebassets\\images\\oludeniz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\orfoz-restoran-bodrum.jpg",
+      "PackagePath": "staticwebassets\\images\\orfoz-restoran-bodrum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\ortunchotelspa-ayvalik.jpg",
+      "PackagePath": "staticwebassets\\images\\ortunchotelspa-ayvalik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\ozel-balon-turu.jpg",
+      "PackagePath": "staticwebassets\\images\\ozel-balon-turu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\ragnumcarya-resort-antalya.jpg",
+      "PackagePath": "staticwebassets\\images\\ragnumcarya-resort-antalya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\regnum-carya-golf-spa.jpg",
+      "PackagePath": "staticwebassets\\images\\regnum-carya-golf-spa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\resort-rixos-antalya.jpg",
+      "PackagePath": "staticwebassets\\images\\resort-rixos-antalya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\richmond-pamukkale-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\richmond-pamukkale-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\seten-restoran-kapadokya.jpg",
+      "PackagePath": "staticwebassets\\images\\seten-restoran-kapadokya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\sheraton-beach-cesme.jpg",
+      "PackagePath": "staticwebassets\\images\\sheraton-beach-cesme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\sheraton-cesme-hotel-spa.jpg",
+      "PackagePath": "staticwebassets\\images\\sheraton-cesme-hotel-spa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\sheraton-cesme-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\sheraton-cesme-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\sirince-koyu-izmir-kapak.jpg",
+      "PackagePath": "staticwebassets\\images\\sirince-koyu-izmir-kapak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\sultanahmet-camii.jpg",
+      "PackagePath": "staticwebassets\\images\\sultanahmet-camii.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\sumele-manastiri.jpg",
+      "PackagePath": "staticwebassets\\images\\sumele-manastiri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\swisshotel-izmir.jpg",
+      "PackagePath": "staticwebassets\\images\\swisshotel-izmir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\thebodrumedition-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\thebodrumedition-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\trabzon-ayasofya-muzesi.jpg",
+      "PackagePath": "staticwebassets\\images\\trabzon-ayasofya-muzesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\traverten-teraslari.jpg",
+      "PackagePath": "staticwebassets\\images\\traverten-teraslari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\tuvana-hotel-butik.jpg",
+      "PackagePath": "staticwebassets\\images\\tuvana-hotel-butik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\uzungol-gezi-rehberi-600x450.jpg",
+      "PackagePath": "staticwebassets\\images\\uzungol-gezi-rehberi-600x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\vault-karakoy-butikhotel.jpg",
+      "PackagePath": "staticwebassets\\images\\vault-karakoy-butikhotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\white-house-restoran-pamukkale.jpg",
+      "PackagePath": "staticwebassets\\images\\white-house-restoran-pamukkale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\yacht-butik-fethiye.jpg",
+      "PackagePath": "staticwebassets\\images\\yacht-butik-fethiye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\yatLimani-bodrum1.jpg",
+      "PackagePath": "staticwebassets\\images\\yatLimani-bodrum1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\images\\zorlu-grand-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\zorlu-grand-hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stajyer\\source\\repos\\TravelTripProje\\TravelTripProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TravelTripProje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TravelTripProje.props",
+      "PackagePath": "build\\TravelTripProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelTripProje.props",
+      "PackagePath": "buildMultiTargeting\\TravelTripProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TravelTripProje.props",
+      "PackagePath": "buildTransitive\\TravelTripProje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

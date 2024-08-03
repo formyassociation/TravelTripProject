@@ -1,0 +1,44 @@
+﻿@model TravelTripProje.Models.ContactModel
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Contact";
+}
+
+<div class="main-content">
+    <h1>Contact Us</h1>
+    <p>Contact: @Model.PhoneNumber</p>
+    <p>Email: <a href="mailto:@Model.Email">@Model.Email</a></p>
+    <p>Address: @Model.Address</p>
+
+    <form asp-action="Contact" asp-controller="Home" method="post" id="contactForm">
+        <div>
+            <input type="text" class="textbox" asp-for="Name" placeholder="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div>
+            <input type="email" class="textbox" asp-for="Email" placeholder="Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div>
+            <input type="text" class="textbox" asp-for="PhoneNumber" placeholder="Phone" />
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div>
+            <input type="text" class="textbox" asp-for="Address" placeholder="Address" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div>
+            <textarea asp-for="Message" placeholder="Message"></textarea>
+            <span asp-validation-for="Message" class="text-danger"></span>
+        </div>
+        <div>
+            <button type="submit" class="read">Submit</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

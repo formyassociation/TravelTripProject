@@ -1,0 +1,39 @@
+﻿@model List<TravelTripProje.Models.TravelGuideModel>
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Free Travel Guides";
+}
+
+<div class="main-content">
+    <h1>Free Travel Guides</h1>
+    <p>Explore our curated travel guides for the best destinations in Turkey.</p>
+
+    @foreach (var guide in Model)
+    {
+        <section>
+            <h2>@guide.Title</h2>
+            <p>@guide.Description</p>
+            <p><strong>Must-Visit Attractions:</strong> @guide.MustVisitAttractions</p>
+            <p><strong>Activities:</strong> @guide.Activities</p>
+        </section>
+    }
+</div>
+
+<style>
+    .main-content {
+        padding: 20px;
+    }
+
+    section {
+        margin-bottom: 40px;
+    }
+
+    h2 {
+        margin-top: 0;
+    }
+
+    p {
+        margin: 10px 0;
+    }
+</style>
