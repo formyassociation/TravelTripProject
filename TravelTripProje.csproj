@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\slider.css" />
+    <Content Remove="wwwroot\css\style.css" />
+    <Content Remove="wwwroot\js\jquery.min.js" />
+    <Content Remove="wwwroot\js\responsiveslides.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\slider.css" />
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\js\jquery.min.js" />
+    <None Include="wwwroot\js\responsiveslides.min.js" />
+  </ItemGroup>
+
+</Project>
